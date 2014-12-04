@@ -1,0 +1,1 @@
+char* HexToBytes(char* inputStr);
